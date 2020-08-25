@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... 
 -->
 ##
+- ⚡
 - 👯 I’m looking to Contribute more to Open Source projects
 - 👯 I’m looking to collaborate with other content creators
 <!--

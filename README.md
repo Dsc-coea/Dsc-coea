@@ -18,3 +18,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+
+[<img align="left" alt="codeplay | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCXt5lehigWjik5gPjjt5Png?view_as=subscriber)
+
+[<img align="left" alt="DSC-COEA | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://mobile.twitter.com/CoeaDsc)
+
+[<img align="left" alt="DSC-COEA| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/company/devloper-student-club-coea/?viewAsMember=true)
+
+[<img align="left" alt="DSC-COEA | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/dsc_coea?igshid=1d433b9abwk2q)
+<br />
+<br/>

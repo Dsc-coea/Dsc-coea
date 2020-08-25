@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="DSC-COEA | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/dsc_coea?igshid=1d433b9abwk2q)
 <br />
 <br/>
+
+<a href="https://github.com/GOVINDARAJLE/">
+<img align="left" alt="DSC-COEA Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dsc-coea&show_icons=true&hide_border=true" />
+</a>

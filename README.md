@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 <br />
 <br/>
 
-<a href="https://github.com/GOVINDARAJLE/">
+<a href="https://github.com/Dsc-coea/">
 <img align="left" alt="DSC-COEA Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dsc-coea&show_icons=true&hide_border=true" />
 </a>

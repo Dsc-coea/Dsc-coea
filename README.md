@@ -1,4 +1,8 @@
-### Hi there, I'm DSC COEA👋
+### Hi there, Welcome to  DSC COEA👋
+
+Developer Student Clubs<br>
+Helping students bridge the gap between theory and practice.<br>
+Developer Student Clubs are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a DSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
 
 <!--
 **Dsc-coea/Dsc-coea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,15 +14,7 @@ Here are some ideas to get you started:
 -->
 ##
 
-- 👯 I’m looking to Contribute more to Open Source projects
-- 👯 I’m looking to collaborate with other content creators
-<!--
-- 🤔 I’m looking for help with
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 ### Connect with me:
 
